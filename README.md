@@ -1,4 +1,5 @@
 # Random-Projects
-Random Projects that I've made (don't be confused about some of the names, I am from Germany)
+Random projects that I've made (don't be confused about some of the names, I am from Germany)
+All the projects here are open source. You're free to use my project's source code if you credit me.
 
-The Pascal's triangle project asks you for an amount of lines off the pascal's triangle(works with 1000 lines) and a directory where to put the file(Pascal's triangle.txt). Once you've entered all the stuff it asks you for, it creates a file called "Pascal's triangle.txt" with the triangle correctly formated.
+1st The Pascal's triangle projects asks the user to input an amount of lines of the Pascal's triangle. Once "Generate" is pressed, the program will generate a file called "Pascal's triangle" in the same folder that the program has been launched from.
